@@ -3,6 +3,7 @@ How to setup:
  
 
    2. Backend NodeJS
+   
 	1. Clone repository
 	2. npm install
 	3. cp .env.example .env
