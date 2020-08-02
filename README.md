@@ -11,7 +11,7 @@ How to setup:
 	5.  npm run dev 
 
 Stack used for this project:
-React Hooks, Redux, useDispatch, useEffect, useSelector, useState Styled Components Typescript  React Router Responsive Design Material UI, react-hook-form, react-toastify
+Node, express, http-errors, lodash, mongoose, nodemon
 
 
 Features: 
